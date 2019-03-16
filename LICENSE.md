@@ -25,7 +25,7 @@
 
 The precise terms and conditions for copying, distribution and modification follow.
 
-## <p align="center">TERMS AND CONDITIONS</p>
+<p align="center">##TERMS AND CONDITIONS</p>
 
   **0. Definitions.**
 
