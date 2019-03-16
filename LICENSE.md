@@ -23,11 +23,11 @@
 
   Finally, every program is threatened constantly by software patents. States should not allow patents to restrict development and use of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program could make it effectively proprietary. To prevent this, the GPL assures that patents cannot be used to render the program non-free.
 
-  The precise terms and conditions for copying, distribution and modification follow.
+The precise terms and conditions for copying, distribution and modification follow.
 
 ## <p align="center">TERMS AND CONDITIONS</p>
 
-###  0. Definitions.
+  **0. Definitions.**
 
   "This License" refers to version 3 of the GNU General Public License.
 
@@ -45,7 +45,7 @@
 
   An interactive user interface displays "Appropriate Legal Notices" to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License. If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.
 
-###  1. Source Code.
+  **1. Source Code.**
 
    The "source code" for a work means the preferred form of the work for making modifications to it. "Object code" means any non-source form of a work.
 
@@ -59,7 +59,7 @@
 
   The Corresponding Source for a work in source code form is that same work.
 
-###  2. Basic Permissions.
+  **2. Basic Permissions.**
 
   All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work. This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.
 
